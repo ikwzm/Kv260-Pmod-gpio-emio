@@ -8,7 +8,7 @@ Overvier
 
 ### Diagram
 
-[Fig.1 Diagram](./kv260-pmod-gpio-emio-diagram.png)
+![Figure 1. Diagram](./kv260-pmod-gpio-emio-diagram.png "Figure 1. Diagram")
 
 ### Requirement
 
